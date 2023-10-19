@@ -1,6 +1,4 @@
 # Hi 👋
-[![Website Badge](https://img.shields.io/badge/-ZihanLi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.yunxiangli.top/)](https://www.yunxiangli.top/)
-[![Gmail Badge](https://img.shields.io/badge/-ZihanLi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yunxiang.li@utsouthwestern.edu)](mailto:yunxiang.li@utsouthwestern.edu) 
 
  Welcome to my profile! I'm a Ph.D. student at University of Texas Southwestern Medical Center.
  
